@@ -1,16 +1,18 @@
 # 🧩 Project: Active Directory & GPO Lab
 
-<img src="https://img.shields.io/badge/Type-Portfolio_Project-informational?style=flat-square&logo=github">
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square&logo=github">
-<img src="https://img.shields.io/badge/Platform-Homelab-blue?style=flat-square&logo=homeassistant">
-<img src="https://img.shields.io/badge/OS-Windows_Server_2022-blue?style=flat-square&logo=windows">
-<img src="https://img.shields.io/badge/OS-Windows_11-blue?style=flat-square&logo=windows">
-<img src="https://img.shields.io/badge/Environment-Active_Directory-lightgrey?style=flat-square&logo=microsoft">
-<img src="https://img.shields.io/badge/Focus-Group_Policy-orange?style=flat-square&logo=windows">
-<img src="https://img.shields.io/badge/Virtualization-Unraid-orange?style=flat-square&logo=unraid">
-<img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square&logo=open-source-initiative">
-<img src="https://img.shields.io/badge/Learning-In_Progress-yellow?style=flat-square&logo=codecademy">
-<img src="https://img.shields.io/badge/Fueled_by-Coffee-brown?style=flat-square&logo=coffeescript">
+<p align="left">
+  <img src="https://img.shields.io/badge/Type-Portfolio_Project-informational?style=flat-square&logo=github">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square&logo=github">
+  <img src="https://img.shields.io/badge/Platform-Homelab-blue?style=flat-square&logo=homeassistant">
+  <img src="https://img.shields.io/badge/OS-Windows_Server_2022-blue?style=flat-square&logo=windows">
+  <img src="https://img.shields.io/badge/OS-Windows_11-blue?style=flat-square&logo=windows">
+  <img src="https://img.shields.io/badge/Environment-Active_Directory-lightgrey?style=flat-square&logo=microsoft">
+  <img src="https://img.shields.io/badge/Focus-Group_Policy-orange?style=flat-square&logo=windows">
+  <img src="https://img.shields.io/badge/Virtualization-Unraid-orange?style=flat-square&logo=unraid">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square&logo=open-source-initiative">
+  <img src="https://img.shields.io/badge/Learning-In_Progress-yellow?style=flat-square&logo=codecademy">
+  <img src="https://img.shields.io/badge/Fueled_by-Coffee-brown?style=flat-square&logo=coffeescript">
+</p>
 
 ## 🗓️ Created: 2025-11-10  🆙 Last Updated: 2025-11-10  📈 Status: ✅ Completed
 
